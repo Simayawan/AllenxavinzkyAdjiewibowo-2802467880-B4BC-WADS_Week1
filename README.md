@@ -1,4 +1,4 @@
-# AllenxavinzkyAdjiewibowo-2802467880-B4BC-WADS_Week1
+# README
 
 Name: Allenxavinzky Adjiewibowo
 NIM: 2802467880
