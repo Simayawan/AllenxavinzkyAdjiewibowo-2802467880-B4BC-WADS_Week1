@@ -8,3 +8,6 @@ Original file is located at
 """
 
 print ("Hello World!")
+
+if x == "Hello World":
+    print("Kill Me Please")
